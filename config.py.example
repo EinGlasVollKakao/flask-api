@@ -1,0 +1,4 @@
+API_KEY = 'enter your key'
+# import os
+# from base64 import b64encode
+# b64encode(os.urandom(20)).decode('utf-8')
